@@ -7,5 +7,5 @@ func Initialize() {
 
 	InitializeRoutes(router)
 
-	router.Run(":8080") // listens on 0.0.0.0:8080 by default
+	router.Run(":8081") // listens on 0.0.0.0:8081 by default
 }
